@@ -7,4 +7,4 @@ Learning to develop an e-commerce solution with microservices architecture and a
 
 [LICENSE](./LICENSE)
 
-See [original](https://github.com/hatanakadaniel/ecommerce-payment-api)[repository](https://github.com/hatanakadaniel/ecommerce-checkout-api).
+See [original](https://github.com/hatanakadaniel/ecommerce-payment-api) [repository](https://github.com/hatanakadaniel/ecommerce-checkout-api).
