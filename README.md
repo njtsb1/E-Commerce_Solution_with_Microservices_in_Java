@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## E-Commerce Solution with Microservices in Java
+# E-Commerce Solution with Microservices in Java
 
 Project developed at Bootcamp Inter Java Developer with instruction from specialist [Daniel Hatanaka](https://github.com/hatanakadaniel "Daniel Hatanaka").</br>
 Learning to develop an e-commerce solution with microservices architecture and applying event-oriented integration between them with Apache Kafka and ensuring compatibility between microservices communication with Schema Registry. We program in Java using the Spring stack (Spring Boot, Spring Cloud Streams).
